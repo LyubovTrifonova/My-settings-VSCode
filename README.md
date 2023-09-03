@@ -18,10 +18,11 @@
     - Live Preview
 3. My Theme Extensions:
    - Ayu Theme
-  I'm using Glassit-VSC Extension to set window to transparent with all of my themes.
+
+I'm using Glassit-VSC Extension to set window to transparent with all of my themes.
     
 
 
 
 
-   HTML to CSS autocompletion
+   
